@@ -1,0 +1,8 @@
+X64/
+*.vcxproj
+*.filters
+*.user
+*.db
+*.o
+*.a
+*.lib
